@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there
+![alt text](https://raw.githubusercontent.com/BoonieHat/BoonieHat/master/generalkenobi.jpg)
 
 <!--
 **BoonieHat/BoonieHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
